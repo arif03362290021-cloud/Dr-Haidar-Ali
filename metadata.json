@@ -1,0 +1,8 @@
+{
+  "name": "District Surgeon Dr. Haidar Ali",
+  "description": "Official clinical practice portal for Dr. Haidar Ali, Consultant General Surgeon & District Specialist (MBBS, MCPS, FCPS General Surgery). Providing OPD consultations and surgical procedures at Pakistan Plaza, Shabqadar Bazar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
